@@ -11,7 +11,6 @@
    sodipodi:docname="complete.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="2.22682"
-     inkscape:cx="62.42085"
-     inkscape:cy="76.791118"
+     inkscape:cx="61.97178"
+     inkscape:cy="76.791119"
      inkscape:window-width="1536"
      inkscape:window-height="795"
      inkscape:window-x="0"
@@ -70,24 +69,6 @@
        width="114.73083"
        height="108.99429"
        id="rect12" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch15"
-       id="linearGradient15"
-       x1="-0.55269998"
-       y1="13.229166"
-       x2="53.469364"
-       y2="13.229166"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch16"
-       id="linearGradient16"
-       x1="-0.55269998"
-       y1="13.229166"
-       x2="53.469364"
-       y2="13.229166"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="logo-komplet"
@@ -125,16 +106,9 @@
        inkscape:label="jmeno"><tspan
          x="378.30469"
          y="281.2392"
-         id="tspan1">Betr </tspan><tspan
+         id="tspan3">Betr </tspan><tspan
          x="413.50781"
          y="310.03918"
-         id="tspan2">eg</tspan></text>
-    <rect
-       style="fill:url(#linearGradient16);fill-opacity:1;stroke:url(#linearGradient15);stroke-width:1.1054;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       id="rect15"
-       width="52.916664"
-       height="26.458332"
-       x="-1.110223e-16"
-       y="-1.3877788e-17" />
+         id="tspan4">eg</tspan></text>
   </g>
 </svg>

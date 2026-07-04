@@ -11,13 +11,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
+  <rect
+     style="fill:#14683f;fill-opacity:1;stroke:none;stroke-width:1.62648;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect9"
+     width="16.939096"
+     height="16.527447"
+     x="3.7628164"
+     y="5.1238871"
+     transform="matrix(1.5619683,0,0,1.6008723,-5.8774001,-8.2026886)" />
   <g
      id="layer1">
     <g
        id="g9"
-       transform="matrix(1.5619683,0,0,1.6008723,-5.8774001,-8.2026887)">
+       transform="matrix(1.2495735,0,0,1.2806967,-1.7914982,-3.9163118)">
       <path
-         style="display:inline;fill:#ffe92b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+         style="display:inline;fill:#ffe92b;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
          d="m 8.6784875,13.647358 c -0.017777,-0.36148 -0.020741,-0.559998 0.1392586,-0.776293 0.1599994,-0.216296 0.4118505,-0.36148 0.6311088,-0.376295 0.2192586,-0.01481 0.5837021,0.127407 0.6637011,0.438517 0.08,0.31111 0.100741,0.604442 -0.109629,0.841478 C 9.7925574,14.011802 9.4577439,14.290319 9.0399676,14.127357 8.6221913,13.964394 8.6784875,13.647358 8.6784875,13.647358 Z"
          id="path7" />
       <path
